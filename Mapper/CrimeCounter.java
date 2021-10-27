@@ -2,7 +2,7 @@ import java.io.File;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Practice {
+class Practice {
   public static void main(String[] args) throws Exception
   {
 	  File fi= new File("C:/Users/rajaa/OneDrive/Desktop/try1.txt");
@@ -20,5 +20,6 @@ public class Practice {
 	  {
 		  System.out.println(ke+"  "+hm.get(ke));
 	  }
+	  sc.close();
   }
 }
