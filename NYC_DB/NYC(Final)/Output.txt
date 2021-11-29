@@ -1,0 +1,994 @@
+1 ) PETIT LARCENY With overall average: 6917.226190476191
+With ideal confidence: 12 and acceptable confidence: 9 monthly predictons are:
+     Month 1 confidence rate: 5.052643897461877
+     Month 2 confidence rate: 1.0452191977851726
+     Month 3 confidence rate: 1.1401784873615526
+     Month 4 confidence rate: 4.056503737070244
+     Month 5 confidence rate: 6.162814248270237
+     Month 6 confidence rate: 9.224650631446622
+     Month 7 confidence rate: 11.533316968107258
+     Month 8 confidence rate: 12.497407858651627
+     Month 9 confidence rate: 10.91798140071792
+     Month 10 confidence rate: 9.890914622341114
+     Month 11 confidence rate: 10.303035409051077
+     Month 12 confidence rate: 14.418393956515132
+2 ) HARRASSMENT 2 With overall average: 5230.077380952381
+With ideal confidence: 8 and acceptable confidence: 6 monthly predictons are:
+     Month 1 confidence rate: 1.5256988881695008
+     Month 2 confidence rate: 1.9170200569534046
+     Month 3 confidence rate: 4.0693127829251665
+     Month 4 confidence rate: 4.54457261897457
+     Month 5 confidence rate: 8.352179119882422
+     Month 6 confidence rate: 9.980883585461669
+     Month 7 confidence rate: 5.923005042977579
+     Month 8 confidence rate: 3.0259114052708185
+     Month 9 confidence rate: 8.478399666550061
+     Month 10 confidence rate: 5.486489535506536
+     Month 11 confidence rate: 4.191420011619215
+     Month 12 confidence rate: 2.6597537674404776
+3 ) ASSAULT 3 & RELATED OFFENSES With overall average: 4349.077380952381
+With ideal confidence: 11 and acceptable confidence: 8 monthly predictons are:
+     Month 1 confidence rate: 1.8670679413979627
+     Month 2 confidence rate: 5.330395819828411
+     Month 3 confidence rate: 8.653641663637288
+     Month 4 confidence rate: 7.939157960353413
+     Month 5 confidence rate: 13.793858939871527
+     Month 6 confidence rate: 13.839597899383534
+     Month 7 confidence rate: 11.310881168231091
+     Month 8 confidence rate: 5.9716423473523434
+     Month 9 confidence rate: 6.1408764171250425
+     Month 10 confidence rate: 2.1207042897401607
+     Month 11 confidence rate: 3.377288642036774
+     Month 12 confidence rate: 3.8810599685212708
+4 ) GRAND LARCENY With overall average: 3592.2023809523807
+With ideal confidence: 17 and acceptable confidence: 10 monthly predictons are:
+     Month 1 confidence rate: 6.805795270318498
+     Month 2 confidence rate: 3.5904307806501805
+     Month 3 confidence rate: 1.9747742447786152
+     Month 4 confidence rate: 2.6028676184830175
+     Month 5 confidence rate: 3.1611663046977156
+     Month 6 confidence rate: 7.0122536849436585
+     Month 7 confidence rate: 7.991747697604666
+     Month 8 confidence rate: 10.021661921969425
+     Month 9 confidence rate: 10.5522545670823
+     Month 10 confidence rate: 12.791221567285788
+     Month 11 confidence rate: 17.3154247477123
+     Month 12 confidence rate: 24.679907148862952
+5 ) CRIMINAL MISCHIEF & RELATED OF With overall average: 4152.857142857143
+With ideal confidence: 11 and acceptable confidence: 9 monthly predictons are:
+     Month 1 confidence rate: 7.197610248055227
+     Month 2 confidence rate: 6.837064986135857
+     Month 3 confidence rate: 11.940210827704774
+     Month 4 confidence rate: 13.774859668607746
+     Month 5 confidence rate: 8.693861866815865
+     Month 6 confidence rate: 10.642750286208042
+     Month 7 confidence rate: 9.311481223226991
+     Month 8 confidence rate: 8.10895761856429
+     Month 9 confidence rate: 4.644417054680659
+     Month 10 confidence rate: 6.638446334957521
+     Month 11 confidence rate: 6.7203095849213526
+     Month 12 confidence rate: 1.7754817959014702
+6 ) FELONY ASSAULT With overall average: 1580.5416666666667
+With ideal confidence: 18 and acceptable confidence: 13 monthly predictons are:
+     Month 1 confidence rate: 4.080491862008913
+     Month 2 confidence rate: 1.9986542258168782
+     Month 3 confidence rate: 7.379031749837878
+     Month 4 confidence rate: 9.583441791642926
+     Month 5 confidence rate: 18.218377134454173
+     Month 6 confidence rate: 21.884354715264607
+     Month 7 confidence rate: 22.8603359898232
+     Month 8 confidence rate: 17.740777633655384
+     Month 9 confidence rate: 14.090361020466034
+     Month 10 confidence rate: 7.926363129393138
+     Month 11 confidence rate: 9.087281543719797
+     Month 12 confidence rate: 9.745154541312104
+7 ) OFF. AGNST PUB ORD SENSBLTY & With overall average: 2188.375
+With ideal confidence: 13 and acceptable confidence: 9 monthly predictons are:
+     Month 1 confidence rate: 14.30760074958961
+     Month 2 confidence rate: 17.294080367428222
+     Month 3 confidence rate: 17.10765398326332
+     Month 4 confidence rate: 15.435644074013382
+     Month 5 confidence rate: 7.876860263567082
+     Month 6 confidence rate: 4.344678346197611
+     Month 7 confidence rate: 1.2230755079096127
+     Month 8 confidence rate: 4.133293573143533
+     Month 9 confidence rate: 5.0443400932028055
+     Month 10 confidence rate: 2.4819014651882725
+     Month 11 confidence rate: 3.727384568955486
+     Month 12 confidence rate: 4.056412976941019
+8 ) ROBBERY With overall average: 1508.017857142857
+With ideal confidence: 24 and acceptable confidence: 16 monthly predictons are:
+     Month 1 confidence rate: 21.842972764751195
+     Month 2 confidence rate: 6.296822864615962
+     Month 3 confidence rate: 1.5839314358498768
+     Month 4 confidence rate: 1.5584967068729583
+     Month 5 confidence rate: 8.836088980755136
+     Month 6 confidence rate: 9.961395461978967
+     Month 7 confidence rate: 13.346746829467762
+     Month 8 confidence rate: 15.643501418481819
+     Month 9 confidence rate: 19.688914351077344
+     Month 10 confidence rate: 25.104670229139288
+     Month 11 confidence rate: 25.240849386009657
+     Month 12 confidence rate: 32.01158959897161
+9 ) MISCELLANEOUS PENAL LAW With overall average: 1029.904761904762
+With ideal confidence: 10 and acceptable confidence: 8 monthly predictons are:
+     Month 1 confidence rate: 6.141826013326622
+     Month 2 confidence rate: 7.997138715061695
+     Month 3 confidence rate: 9.539712911706914
+     Month 4 confidence rate: 10.125904402544776
+     Month 5 confidence rate: 8.054836444340296
+     Month 6 confidence rate: 7.715723083220183
+     Month 7 confidence rate: 11.978114288028564
+     Month 8 confidence rate: 6.721052928889748
+     Month 9 confidence rate: 8.314392148588311
+     Month 10 confidence rate: 4.904919719097364
+     Month 11 confidence rate: 1.4492043589300607
+     Month 12 confidence rate: 1.3303124054849462
+10 ) BURGLARY With overall average: 1421.5714285714287
+With ideal confidence: 20 and acceptable confidence: 14 monthly predictons are:
+     Month 1 confidence rate: 19.957563275536216
+     Month 2 confidence rate: 10.732340577197618
+     Month 3 confidence rate: 1.555925344857215
+     Month 4 confidence rate: 2.51033655232186
+     Month 5 confidence rate: 4.648354075640782
+     Month 6 confidence rate: 6.011216092943641
+     Month 7 confidence rate: 12.314220679763338
+     Month 8 confidence rate: 16.69704141534899
+     Month 9 confidence rate: 15.375559147477176
+     Month 10 confidence rate: 18.51759322386515
+     Month 11 confidence rate: 21.93016887642645
+     Month 12 confidence rate: 26.630112324534608
+11 ) DANGEROUS DRUGS With overall average: 2493.0535714285716
+With ideal confidence: 28 and acceptable confidence: 20 monthly predictons are:
+     Month 1 confidence rate: 28.229944767554088
+     Month 2 confidence rate: 36.4850683357799
+     Month 3 confidence rate: 29.333870300949116
+     Month 4 confidence rate: 25.631539287822548
+     Month 5 confidence rate: 18.406302326004038
+     Month 6 confidence rate: 10.296860071990437
+     Month 7 confidence rate: 11.246925401776906
+     Month 8 confidence rate: 18.937346064901035
+     Month 9 confidence rate: 17.087546419856537
+     Month 10 confidence rate: 20.28544727539858
+     Month 11 confidence rate: 12.313857495748636
+     Month 12 confidence rate: 1.645947998420226
+12 ) VEHICLE AND TRAFFIC LAWS With overall average: 508.88690476190476
+With ideal confidence: 12 and acceptable confidence: 9 monthly predictons are:
+     Month 1 confidence rate: 4.270170552913825
+     Month 2 confidence rate: 11.37756160709435
+     Month 3 confidence rate: 8.742155861815064
+     Month 4 confidence rate: 6.929549850069321
+     Month 5 confidence rate: 10.935000358435289
+     Month 6 confidence rate: 7.3393733445478375
+     Month 7 confidence rate: 1.548555641254012
+     Month 8 confidence rate: 3.0910559760691285
+     Month 9 confidence rate: 8.061682659078983
+     Month 10 confidence rate: 8.71181288922574
+     Month 11 confidence rate: 10.335990973176763
+     Month 12 confidence rate: 15.320183448277149
+13 ) OFFENSES AGAINST PUBLIC ADMINI With overall average: 785.7916666666666
+With ideal confidence: 14 and acceptable confidence: 11 monthly predictons are:
+     Month 1 confidence rate: 4.520995302652651
+     Month 2 confidence rate: 11.730903651921807
+     Month 3 confidence rate: 17.588759632213623
+     Month 4 confidence rate: 14.998195500528865
+     Month 5 confidence rate: 13.635583288715111
+     Month 6 confidence rate: 11.81701031053008
+     Month 7 confidence rate: 10.553688351582764
+     Month 8 confidence rate: 9.599793261845633
+     Month 9 confidence rate: 10.792967136524496
+     Month 10 confidence rate: 9.330841031990118
+     Month 11 confidence rate: 4.236367250499342
+     Month 12 confidence rate: 1.871488291330337
+14 ) SEX CRIMES With overall average: 492.1845238095238
+With ideal confidence: 13 and acceptable confidence: 10 monthly predictons are:
+     Month 1 confidence rate: 1.9432375372424673
+     Month 2 confidence rate: 8.676364877961689
+     Month 3 confidence rate: 15.184940791204056
+     Month 4 confidence rate: 12.678948000665528
+     Month 5 confidence rate: 15.887885370682028
+     Month 6 confidence rate: 12.427401123652189
+     Month 7 confidence rate: 9.263879616287696
+     Month 8 confidence rate: 7.782873284653235
+     Month 9 confidence rate: 5.045929313554581
+     Month 10 confidence rate: 9.70576603163262
+     Month 11 confidence rate: 7.659693187084002
+     Month 12 confidence rate: 2.334870319010051
+15 ) GRAND LARCENY OF MOTOR VEHICLE With overall average: 742.8928571428571
+With ideal confidence: 22 and acceptable confidence: 16 monthly predictons are:
+     Month 1 confidence rate: 13.281835518630132
+     Month 2 confidence rate: 4.193200053283263
+     Month 3 confidence rate: 1.2697552234499199
+     Month 4 confidence rate: 4.825330592697142
+     Month 5 confidence rate: 10.234933788346751
+     Month 6 confidence rate: 11.410747447801825
+     Month 7 confidence rate: 21.754123255512553
+     Month 8 confidence rate: 27.287864217552027
+     Month 9 confidence rate: 26.26430211452957
+     Month 10 confidence rate: 21.78605594330942
+     Month 11 confidence rate: 19.188778337812465
+     Month 12 confidence rate: 19.80955207392924
+16 ) DANGEROUS WEAPONS With overall average: 931.8690476190476
+With ideal confidence: 26 and acceptable confidence: 19 monthly predictons are:
+     Month 1 confidence rate: 33.661630326451586
+     Month 2 confidence rate: 32.26296304293578
+     Month 3 confidence rate: 27.407543339774534
+     Month 4 confidence rate: 24.687819939558068
+     Month 5 confidence rate: 18.558934945878875
+     Month 6 confidence rate: 9.961409790144529
+     Month 7 confidence rate: 11.053225092576852
+     Month 8 confidence rate: 15.370719588692296
+     Month 9 confidence rate: 13.251026192402591
+     Month 10 confidence rate: 16.728447679730493
+     Month 11 confidence rate: 13.048103640503399
+     Month 12 confidence rate: 1.5898563048294534
+17 ) INTOXICATED & IMPAIRED DRIVING With overall average: 559.5535714285714
+With ideal confidence: 27 and acceptable confidence: 17 monthly predictons are:
+     Month 1 confidence rate: 20.558206059803155
+     Month 2 confidence rate: 36.720768739325194
+     Month 3 confidence rate: 34.047231290938086
+     Month 4 confidence rate: 23.336462213266714
+     Month 5 confidence rate: 16.44916092270772
+     Month 6 confidence rate: 1.167779112584867
+     Month 7 confidence rate: 3.634894668971839
+     Month 8 confidence rate: 4.9534807175898266
+     Month 9 confidence rate: 3.7619673554530806
+     Month 10 confidence rate: 14.51084482782369
+     Month 11 confidence rate: 21.744151408108266
+     Month 12 confidence rate: 13.25694011888045
+18 ) THEFT-FRAUD With overall average: 440.5654761904762
+With ideal confidence: 24 and acceptable confidence: 14 monthly predictons are:
+     Month 1 confidence rate: 16.767530863621985
+     Month 2 confidence rate: 34.41171614592672
+     Month 3 confidence rate: 34.05715694349172
+     Month 4 confidence rate: 31.541250770051448
+     Month 5 confidence rate: 12.319461738953478
+     Month 6 confidence rate: 6.424015082709303
+     Month 7 confidence rate: 1.3909571019143243
+     Month 8 confidence rate: 1.082354655396557
+     Month 9 confidence rate: 2.2335270841829242
+     Month 10 confidence rate: 5.177266045041705
+     Month 11 confidence rate: 3.87410669043922
+     Month 12 confidence rate: 8.977662133129243
+19 ) FORGERY With overall average: 420.25
+With ideal confidence: 28 and acceptable confidence: 17 monthly predictons are:
+     Month 1 confidence rate: 30.002379865761966
+     Month 2 confidence rate: 38.222394115065285
+     Month 3 confidence rate: 38.03761697519461
+     Month 4 confidence rate: 26.813474822499046
+     Month 5 confidence rate: 12.14909268278062
+     Month 6 confidence rate: 4.242986431284763
+     Month 7 confidence rate: 4.262689699901543
+     Month 8 confidence rate: 4.607042299135259
+     Month 9 confidence rate: 1.7093425841085974
+     Month 10 confidence rate: 12.47886016973645
+     Month 11 confidence rate: 13.524528641596163
+     Month 12 confidence rate: 8.25190400346753
+20 ) CRIMINAL TRESPASS With overall average: 476.1666666666667
+With ideal confidence: 50 and acceptable confidence: 28 monthly predictons are:
+     Month 1 confidence rate: 60.92137086882599
+     Month 2 confidence rate: 70.56951479839387
+     Month 3 confidence rate: 54.91873934156261
+     Month 4 confidence rate: 36.33521704409377
+     Month 5 confidence rate: 22.976111539490446
+     Month 6 confidence rate: 7.5614418971915285
+     Month 7 confidence rate: 1.481582215915779
+     Month 8 confidence rate: 5.124534751736036
+     Month 9 confidence rate: 4.697268619894743
+     Month 10 confidence rate: 16.448055012717845
+     Month 11 confidence rate: 25.13068998183583
+     Month 12 confidence rate: 23.835747818893722
+21 ) FRAUDS With overall average: 255.95238095238096
+With ideal confidence: 26 and acceptable confidence: 16 monthly predictons are:
+     Month 1 confidence rate: 22.89241651507291
+     Month 2 confidence rate: 34.98732792470676
+     Month 3 confidence rate: 33.71825281958877
+     Month 4 confidence rate: 31.7814816991704
+     Month 5 confidence rate: 12.339708889930733
+     Month 6 confidence rate: 8.502480399358475
+     Month 7 confidence rate: 5.560557946482646
+     Month 8 confidence rate: 8.246458933550556
+     Month 9 confidence rate: 5.247701387511299
+     Month 10 confidence rate: 9.635141948857537
+     Month 11 confidence rate: 7.9580150945675
+     Month 12 confidence rate: 1.2805299663858847
+22 ) UNAUTHORIZED USE OF A VEHICLE With overall average: 122.18452380952381
+With ideal confidence: 14 and acceptable confidence: 9 monthly predictons are:
+     Month 1 confidence rate: 6.948500597885115
+     Month 2 confidence rate: 13.269757338896085
+     Month 3 confidence rate: 3.2029475694308616
+     Month 4 confidence rate: 3.4782235435608584
+     Month 5 confidence rate: 1.5168157281999868
+     Month 6 confidence rate: 3.890106027563448
+     Month 7 confidence rate: 12.88691029206278
+     Month 8 confidence rate: 18.37524299997824
+     Month 9 confidence rate: 12.52826361639795
+     Month 10 confidence rate: 10.417850280058587
+     Month 11 confidence rate: 4.125041117951795
+     Month 12 confidence rate: 6.493571817210665
+23 ) RAPE With overall average: 120.36904761904762
+With ideal confidence: 8 and acceptable confidence: 5 monthly predictons are:
+     Month 1 confidence rate: 5.068721541342697
+     Month 2 confidence rate: 2.3003180072151252
+     Month 3 confidence rate: 9.16714697501267
+     Month 4 confidence rate: 4.128684905184556
+     Month 5 confidence rate: 4.695559824544503
+     Month 6 confidence rate: 1.3808844205574644
+     Month 7 confidence rate: 2.365672088761684
+     Month 8 confidence rate: 10.649366497907707
+     Month 9 confidence rate: 2.1385161551233125
+     Month 10 confidence rate: 2.859373619512411
+     Month 11 confidence rate: 1.0412984407437307
+     Month 12 confidence rate: 3.467395291206003
+24 ) OTHER OFFENSES RELATED TO THEF With overall average: 92.93452380952381
+With ideal confidence: 20 and acceptable confidence: 14 monthly predictons are:
+     Month 1 confidence rate: 12.772316035647194
+     Month 2 confidence rate: 25.291502008999046
+     Month 3 confidence rate: 20.95042967079516
+     Month 4 confidence rate: 15.363300353231907
+     Month 5 confidence rate: 5.290252896575694
+     Month 6 confidence rate: 12.576850951276015
+     Month 7 confidence rate: 1.8489628828678661
+     Month 8 confidence rate: 10.760206284818963
+     Month 9 confidence rate: 8.753337104424503
+     Month 10 confidence rate: 10.786736724197098
+     Month 11 confidence rate: 16.741954110869727
+     Month 12 confidence rate: 17.032512146696476
+25 ) ADMINISTRATIVE CODE With overall average: 91.45833333333333
+With ideal confidence: 13 and acceptable confidence: 10 monthly predictons are:
+     Month 1 confidence rate: 10.617863575948974
+     Month 2 confidence rate: 11.985409830297755
+     Month 3 confidence rate: 1.4182147143384611
+     Month 4 confidence rate: 4.290062933541449
+     Month 5 confidence rate: 2.6908887366554097
+     Month 6 confidence rate: 4.377947984200446
+     Month 7 confidence rate: 10.598359414490673
+     Month 8 confidence rate: 16.391528492875892
+     Month 9 confidence rate: 15.632030113511263
+     Month 10 confidence rate: 14.111137254198653
+     Month 11 confidence rate: 7.780823242349001
+     Month 12 confidence rate: 9.481309580504856
+26 ) POSSESSION OF STOLEN PROPERTY With overall average: 215.1904761904762
+With ideal confidence: 11 and acceptable confidence: 9 monthly predictons are:
+     Month 1 confidence rate: 9.458203099145265
+     Month 2 confidence rate: 12.987202839418742
+     Month 3 confidence rate: 9.477125729359301
+     Month 4 confidence rate: 10.952743163561294
+     Month 5 confidence rate: 10.437261425449975
+     Month 6 confidence rate: 3.5107151862663812
+     Month 7 confidence rate: 9.250533646000363
+     Month 8 confidence rate: 10.650716487051682
+     Month 9 confidence rate: 7.570925364731849
+     Month 10 confidence rate: 7.586373833469523
+     Month 11 confidence rate: 4.350486617982611
+     Month 12 confidence rate: 1.7755918623593914
+27 ) THEFT OF SERVICES With overall average: 29.864864864864863
+With ideal confidence: 47 and acceptable confidence: 33 monthly predictons are:
+     Month 1 confidence rate: 34.25288488057528
+     Month 2 confidence rate: 29.046013493365194
+     Month 3 confidence rate: 16.822920468292068
+     Month 4 confidence rate: 60.302351649521626
+     Month 5 confidence rate: 20.198256113931834
+     Month 6 confidence rate: 1.6595040109153132
+     Month 7 confidence rate: 17.923992915228425
+     Month 8 confidence rate: 26.51418840263719
+     Month 9 confidence rate: 57.72340586371389
+     Month 10 confidence rate: 55.605140416530844
+     Month 11 confidence rate: 50.33254750359296
+     Month 12 confidence rate: 15.69190461056587
+28 ) OFFENSES AGAINST THE PERSON With overall average: 102.95238095238095
+With ideal confidence: 48 and acceptable confidence: 25 monthly predictons are:
+     Month 1 confidence rate: 12.84831098984489
+     Month 2 confidence rate: 9.048395293337876
+     Month 3 confidence rate: 18.74498645153058
+     Month 4 confidence rate: 32.525829037459076
+     Month 5 confidence rate: 31.807624342405333
+     Month 6 confidence rate: 39.55500623038925
+     Month 7 confidence rate: 71.47015631298447
+     Month 8 confidence rate: 33.81904461660956
+     Month 9 confidence rate: 19.607319429324505
+     Month 10 confidence rate: 14.599055176665033
+     Month 11 confidence rate: 7.332414900022201
+     Month 12 confidence rate: 1.3584598912841557
+29 ) ARSON With overall average: 100.17261904761905
+With ideal confidence: 37 and acceptable confidence: 22 monthly predictons are:
+     Month 1 confidence rate: 51.30940173440908
+     Month 2 confidence rate: 39.98004872601423
+     Month 3 confidence rate: 27.079852812807516
+     Month 4 confidence rate: 13.488569087006127
+     Month 5 confidence rate: 7.168309569873685
+     Month 6 confidence rate: 1.6739776732552656
+     Month 7 confidence rate: 14.983831416425232
+     Month 8 confidence rate: 1.3148444693227077
+     Month 9 confidence rate: 10.783561595305756
+     Month 10 confidence rate: 16.018103577828427
+     Month 11 confidence rate: 32.75144585001837
+     Month 12 confidence rate: 41.46202629990536
+30 ) OFFENSES INVOLVING FRAUD With overall average: 131.99404761904762
+With ideal confidence: 25 and acceptable confidence: 16 monthly predictons are:
+     Month 1 confidence rate: 23.55622998932151
+     Month 2 confidence rate: 32.01737971220764
+     Month 3 confidence rate: 32.841121700651755
+     Month 4 confidence rate: 27.213322504804438
+     Month 5 confidence rate: 11.92420953257853
+     Month 6 confidence rate: 7.374040423229459
+     Month 7 confidence rate: 3.888282484231098
+     Month 8 confidence rate: 6.809621057114029
+     Month 9 confidence rate: 1.9482171995593518
+     Month 10 confidence rate: 14.08094624437338
+     Month 11 confidence rate: 12.559844279272312
+     Month 12 confidence rate: 9.293604568154379
+31 ) NYS LAWS-UNCLASSIFIED FELONY With overall average: 38.464285714285715
+With ideal confidence: 29 and acceptable confidence: 19 monthly predictons are:
+     Month 1 confidence rate: 29.523465169206574
+     Month 2 confidence rate: 37.744889302495395
+     Month 3 confidence rate: 34.211652574325086
+     Month 4 confidence rate: 22.5503222597125
+     Month 5 confidence rate: 16.41736462731744
+     Month 6 confidence rate: 12.722810887169615
+     Month 7 confidence rate: 1.36524335637003
+     Month 8 confidence rate: 9.189144837294947
+     Month 9 confidence rate: 13.962230411068063
+     Month 10 confidence rate: 20.8964423603627
+     Month 11 confidence rate: 17.589177599366735
+     Month 12 confidence rate: 4.857364200767535
+32 ) BURGLAR'S TOOLS With overall average: 21.535714285714285
+With ideal confidence: 20 and acceptable confidence: 12 monthly predictons are:
+     Month 1 confidence rate: 13.97023873400974
+     Month 2 confidence rate: 9.35493415447479
+     Month 3 confidence rate: 5.209352972394413
+     Month 4 confidence rate: 6.88118723796461
+     Month 5 confidence rate: 5.740209299101494
+     Month 6 confidence rate: 5.638405431344637
+     Month 7 confidence rate: 6.537261385122633
+     Month 8 confidence rate: 20.225228989464796
+     Month 9 confidence rate: 26.598477385135283
+     Month 10 confidence rate: 19.72351501813435
+     Month 11 confidence rate: 17.92236156021201
+     Month 12 confidence rate: 1.2515576756377271
+33 ) MURDER & NON-NEGL. MANSLAUGHTER With overall average: 34.61309523809524
+With ideal confidence: 23 and acceptable confidence: 15 monthly predictons are:
+     Month 1 confidence rate: 12.290967113209959
+     Month 2 confidence rate: 2.0399090210219413
+     Month 3 confidence rate: 1.558597801229567
+     Month 4 confidence rate: 8.01932016135946
+     Month 5 confidence rate: 14.158257839389378
+     Month 6 confidence rate: 24.26934846691556
+     Month 7 confidence rate: 31.41751199128494
+     Month 8 confidence rate: 21.422622597856204
+     Month 9 confidence rate: 16.936807121296525
+     Month 10 confidence rate: 18.267601669557592
+     Month 11 confidence rate: 1.8386606171743125
+     Month 12 confidence rate: 20.184435149927126
+34 ) AGRICULTURE & MRKTS LAW-UNCLASSIFIED With overall average: 10.807017543859649
+With ideal confidence: 18 and acceptable confidence: 10 monthly predictons are:
+     Month 1 confidence rate: 3.361826192495659
+     Month 2 confidence rate: 1.7886062274415515
+     Month 3 confidence rate: 1.4451261743044164
+     Month 4 confidence rate: 5.0855327145642235
+     Month 5 confidence rate: 5.507183247748756
+     Month 6 confidence rate: 5.52419999883255
+     Month 7 confidence rate: 12.57119496765889
+     Month 8 confidence rate: 14.429725404027764
+     Month 9 confidence rate: 24.86299679038772
+     Month 10 confidence rate: 12.425171778052245
+     Month 11 confidence rate: 3.968224931041096
+     Month 12 confidence rate: 22.195205178398176
+35 ) FRAUDULENT ACCOSTING With overall average: 20.214285714285715
+With ideal confidence: 33 and acceptable confidence: 25 monthly predictons are:
+     Month 1 confidence rate: 31.74654603791376
+     Month 2 confidence rate: 37.78824764146536
+     Month 3 confidence rate: 39.80641511550321
+     Month 4 confidence rate: 29.499709230252265
+     Month 5 confidence rate: 18.684825325718435
+     Month 6 confidence rate: 1.083056092752031
+     Month 7 confidence rate: 21.893569762898395
+     Month 8 confidence rate: 26.764229513187942
+     Month 9 confidence rate: 14.620768451549822
+     Month 10 confidence rate: 18.354911478467542
+     Month 11 confidence rate: 33.891509758160836
+     Month 12 confidence rate: 23.493334068444838
+36 ) KIDNAPPING & RELATED OFFENSES With overall average: 16.613095238095237
+With ideal confidence: 27 and acceptable confidence: 18 monthly predictons are:
+     Month 1 confidence rate: 21.16088961747606
+     Month 2 confidence rate: 18.386206817801423
+     Month 3 confidence rate: 14.378332868500777
+     Month 4 confidence rate: 29.3239550089978
+     Month 5 confidence rate: 34.361358669025236
+     Month 6 confidence rate: 15.852645782285578
+     Month 7 confidence rate: 23.798386311146942
+     Month 8 confidence rate: 23.15091709221838
+     Month 9 confidence rate: 5.108152137583147
+     Month 10 confidence rate: 19.865205520268205
+     Month 11 confidence rate: 1.261240852277382
+     Month 12 confidence rate: 5.5338446036169415
+37 ) OTHER STATE LAWS (NON PENAL LA With overall average: 39.208333333333336
+With ideal confidence: 33 and acceptable confidence: 27 monthly predictons are:
+     Month 1 confidence rate: 31.375751148162053
+     Month 2 confidence rate: 38.88200869096431
+     Month 3 confidence rate: 32.100221719670785
+     Month 4 confidence rate: 32.85378076129214
+     Month 5 confidence rate: 27.897087515286472
+     Month 6 confidence rate: 29.456623918031582
+     Month 7 confidence rate: 28.76145477212235
+     Month 8 confidence rate: 27.373913673279276
+     Month 9 confidence rate: 22.411667764381946
+     Month 10 confidence rate: 27.463055542567844
+     Month 11 confidence rate: 17.642788891651392
+     Month 12 confidence rate: 1.5127973723501782
+38 ) GAMBLING With overall average: 17.547619047619047
+With ideal confidence: 88 and acceptable confidence: 57 monthly predictons are:
+     Month 1 confidence rate: 1.339709653432422
+     Month 2 confidence rate: 22.948731636996484
+     Month 3 confidence rate: 25.965715870772016
+     Month 4 confidence rate: 52.85662710434653
+     Month 5 confidence rate: 68.25036467551487
+     Month 6 confidence rate: 100.10633250945747
+     Month 7 confidence rate: 90.84971896820505
+     Month 8 confidence rate: 119.33293542244797
+     Month 9 confidence rate: 103.50310999125423
+     Month 10 confidence rate: 60.869984661115495
+     Month 11 confidence rate: 26.06477832192209
+     Month 12 confidence rate: 1.6453632774865383
+39 ) OFFENSES AGAINST PUBLIC SAFETY With overall average: 6.713333333333333
+With ideal confidence: 360 and acceptable confidence: 90 monthly predictons are:
+     Month 1 confidence rate: 11.366035121679424
+     Month 2 confidence rate: 9.461170357740777
+     Month 3 confidence rate: 34.36150720350227
+     Month 4 confidence rate: 10.009133926783946
+     Month 5 confidence rate: 44.14420595758732
+     Month 6 confidence rate: 256.8607814533148
+     Month 7 confidence rate: 629.8530684705869
+     Month 8 confidence rate: 19.143511234591372
+     Month 9 confidence rate: 1.1425116386337777
+     Month 10 confidence rate: 15.39333269182999
+     Month 11 confidence rate: 5.6755028336743365
+     Month 12 confidence rate: 31.511095847150074
+40 ) ALCOHOLIC BEVERAGE CONTROL LAW With overall average: 7.271084337349397
+With ideal confidence: 46 and acceptable confidence: 29 monthly predictons are:
+     Month 1 confidence rate: 21.51564367113643
+     Month 2 confidence rate: 61.80857578392357
+     Month 3 confidence rate: 28.705639330140826
+     Month 4 confidence rate: 29.09832771105853
+     Month 5 confidence rate: 8.96473169817206
+     Month 6 confidence rate: 41.55561758755063
+     Month 7 confidence rate: 41.549944279001735
+     Month 8 confidence rate: 1.6383901104883023
+     Month 9 confidence rate: 18.339925750235338
+     Month 10 confidence rate: 28.245867598655053
+     Month 11 confidence rate: 41.22454421597543
+     Month 12 confidence rate: 16.779524984606837
+41 ) PETIT LARCENY OF MOTOR VEHICLE With overall average: 7.054216867469879
+With ideal confidence: 73 and acceptable confidence: 49 monthly predictons are:
+     Month 1 confidence rate: 33.503155806868335
+     Month 2 confidence rate: 1.150536504353532
+     Month 3 confidence rate: 18.94543880579056
+     Month 4 confidence rate: 60.870160629878825
+     Month 5 confidence rate: 57.85747319591489
+     Month 6 confidence rate: 64.33680587541964
+     Month 7 confidence rate: 79.18420256923642
+     Month 8 confidence rate: 96.45950145215417
+     Month 9 confidence rate: 68.25867174357225
+     Month 10 confidence rate: 59.52148608683595
+     Month 11 confidence rate: 35.978278530129
+     Month 12 confidence rate: 5.603182960310896
+42 ) ENDAN WELFARE INCOMP With overall average: 2.04
+With ideal confidence: 61 and acceptable confidence: 46 monthly predictons are:
+     Month 1 confidence rate: 1.2634510097319165
+     Month 2 confidence rate: 66.85174625578298
+     Month 3 confidence rate: 74.59274373449807
+     Month 4 confidence rate: 40.50402470019516
+     Month 5 confidence rate: 63.66674847116772
+     Month 6 confidence rate: 62.83567898508865
+     Month 7 confidence rate: 38.581946540765756
+     Month 8 confidence rate: 73.03139915090904
+     Month 9 confidence rate: 39.87240752713693
+     Month 10 confidence rate: 15.104825757571149
+     Month 11 confidence rate: 11.130477312453905
+     Month 12 confidence rate: 60.11170998017958
+43 ) FELONY SEX CRIMES With overall average: 2.0
+With ideal confidence: 22 and acceptable confidence: 9 monthly predictons are:
+     Month 1 confidence rate: 0.0
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 0.0
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 0.0
+     Month 6 confidence rate: 18.77895695129904
+     Month 7 confidence rate: 0.0
+     Month 8 confidence rate: 0.0
+     Month 9 confidence rate: 18.476092652505212
+     Month 10 confidence rate: 8.319157639019613
+     Month 11 confidence rate: 35.47154368132443
+     Month 12 confidence rate: 20.87825041208628
+44 ) OTHER STATE LAWS With overall average: 2.274193548387097
+With ideal confidence: 88 and acceptable confidence: 54 monthly predictons are:
+     Month 1 confidence rate: 46.89948254500703
+     Month 2 confidence rate: 66.35327503675951
+     Month 3 confidence rate: 113.31652168286263
+     Month 4 confidence rate: 65.03351776083825
+     Month 5 confidence rate: 28.80841659896157
+     Month 6 confidence rate: 60.52468274957231
+     Month 7 confidence rate: 120.42659341549606
+     Month 8 confidence rate: 34.03591682894043
+     Month 9 confidence rate: 45.581654251514436
+     Month 10 confidence rate: 46.392049962023904
+     Month 11 confidence rate: 16.068895227074478
+     Month 12 confidence rate: 1.0925546652605291
+45 ) KIDNAPPING With overall average: 1.4666666666666666
+With ideal confidence: 49 and acceptable confidence: 33 monthly predictons are:
+     Month 1 confidence rate: 46.693177491374435
+     Month 2 confidence rate: 6.844301576123457
+     Month 3 confidence rate: 32.397777910174966
+     Month 4 confidence rate: 31.690134377868507
+     Month 5 confidence rate: 0.0
+     Month 6 confidence rate: 16.277096375259852
+     Month 7 confidence rate: 41.64102913892908
+     Month 8 confidence rate: 28.943759334865067
+     Month 9 confidence rate: 64.04279041763388
+     Month 10 confidence rate: 52.640956205631205
+     Month 11 confidence rate: 55.9077914071337
+     Month 12 confidence rate: 13.473675123298104
+46 ) OFFENSES RELATED TO CHILDREN With overall average: 10.189024390243903
+With ideal confidence: 98 and acceptable confidence: 44 monthly predictons are:
+     Month 1 confidence rate: 150.98134458890107
+     Month 2 confidence rate: 48.96838679863508
+     Month 3 confidence rate: 107.59428150470086
+     Month 4 confidence rate: 17.750163230147948
+     Month 5 confidence rate: 14.712261252316395
+     Month 6 confidence rate: 46.24292140016287
+     Month 7 confidence rate: 15.563352853563401
+     Month 8 confidence rate: 26.75575527639772
+     Month 9 confidence rate: 12.15403115864855
+     Month 10 confidence rate: 55.96321633806133
+     Month 11 confidence rate: 23.310153488871038
+     Month 12 confidence rate: 1.8575034027705328
+47 ) HOMICIDE-NEGLIGENT,UNCLASSIFIE With overall average: 1.7096774193548387
+With ideal confidence: 83 and acceptable confidence: 51 monthly predictons are:
+     Month 1 confidence rate: 1.2198487759174697
+     Month 2 confidence rate: 24.058431419804904
+     Month 3 confidence rate: 75.65874389102385
+     Month 4 confidence rate: 53.819999441780936
+     Month 5 confidence rate: 113.16719825330784
+     Month 6 confidence rate: 19.33532427377584
+     Month 7 confidence rate: 69.51706844800353
+     Month 8 confidence rate: 54.60122409108409
+     Month 9 confidence rate: 50.411941088639
+     Month 10 confidence rate: 8.903618858972024
+     Month 11 confidence rate: 43.318807120042976
+     Month 12 confidence rate: 97.78708564150816
+48 ) PROSTITUTION & RELATED OFFENSES With overall average: 7.078313253012048
+With ideal confidence: 52 and acceptable confidence: 36 monthly predictons are:
+     Month 1 confidence rate: 10.81665252346339
+     Month 2 confidence rate: 30.086550270683617
+     Month 3 confidence rate: 67.55222354305127
+     Month 4 confidence rate: 19.618897701375545
+     Month 5 confidence rate: 59.369670973771264
+     Month 6 confidence rate: 45.80150930711632
+     Month 7 confidence rate: 33.93312786375925
+     Month 8 confidence rate: 56.327423231757706
+     Month 9 confidence rate: 43.45672032781252
+     Month 10 confidence rate: 59.57754542904249
+     Month 11 confidence rate: 3.6175906246645155
+     Month 12 confidence rate: 1.606689722558528
+49 ) JOSTLING With overall average: 2.9072847682119205
+With ideal confidence: 52 and acceptable confidence: 37 monthly predictons are:
+     Month 1 confidence rate: 41.994318001137984
+     Month 2 confidence rate: 23.770510956662477
+     Month 3 confidence rate: 35.83039223701198
+     Month 4 confidence rate: 25.05157676143358
+     Month 5 confidence rate: 46.05753403528537
+     Month 6 confidence rate: 60.07621279325572
+     Month 7 confidence rate: 27.429038610624374
+     Month 8 confidence rate: 1.9527215630970005
+     Month 9 confidence rate: 66.1892743958064
+     Month 10 confidence rate: 51.90879784969657
+     Month 11 confidence rate: 44.00670623021726
+     Month 12 confidence rate: 17.655855616696385
+50 ) LOITERING/GAMBLING (CARDS, DIC With overall average: 2.44
+With ideal confidence: 209 and acceptable confidence: 103 monthly predictons are:
+     Month 1 confidence rate: 18.847597134626938
+     Month 2 confidence rate: 7.489644006600777
+     Month 3 confidence rate: 1.9812833977166804
+     Month 4 confidence rate: 112.25465660630041
+     Month 5 confidence rate: 172.53812870507923
+     Month 6 confidence rate: 176.83960317394445
+     Month 7 confidence rate: 159.2576776675872
+     Month 8 confidence rate: 313.66829097450983
+     Month 9 confidence rate: 128.25034003085048
+     Month 10 confidence rate: 53.844322739565214
+     Month 11 confidence rate: 51.63954699962726
+     Month 12 confidence rate: 34.8555501735346
+51 ) ANTICIPATORY OFFENSES With overall average: 1.3902439024390243
+With ideal confidence: 128 and acceptable confidence: 91 monthly predictons are:
+     Month 1 confidence rate: 63.420941481207734
+     Month 2 confidence rate: 87.24968592846137
+     Month 3 confidence rate: 51.24164039245521
+     Month 4 confidence rate: 152.41325153858605
+     Month 5 confidence rate: 72.27789758654828
+     Month 6 confidence rate: 1.1039360952777955
+     Month 7 confidence rate: 44.03301488927313
+     Month 8 confidence rate: 24.539048804216023
+     Month 9 confidence rate: 156.72611897523024
+     Month 10 confidence rate: 122.96720150245164
+     Month 11 confidence rate: 143.84800659770525
+     Month 12 confidence rate: 164.95144831202632
+52 ) ESCAPE 3 With overall average: 1.8035714285714286
+With ideal confidence: 97 and acceptable confidence: 74 monthly predictons are:
+     Month 1 confidence rate: 1.3714062355980587
+     Month 2 confidence rate: 96.6005736307524
+     Month 3 confidence rate: 57.552395352488446
+     Month 4 confidence rate: 117.74883951686917
+     Month 5 confidence rate: 59.631176399817875
+     Month 6 confidence rate: 119.89162169154756
+     Month 7 confidence rate: 63.89148726185485
+     Month 8 confidence rate: 112.59463568208304
+     Month 9 confidence rate: 47.75570346011959
+     Month 10 confidence rate: 93.06087161045701
+     Month 11 confidence rate: 66.39640431999268
+     Month 12 confidence rate: 40.51501501399886
+53 ) CHILD ABANDONMENT/NON SUPPORT With overall average: 2.888888888888889
+With ideal confidence: 59 and acceptable confidence: 29 monthly predictons are:
+     Month 1 confidence rate: 1.3358530525004966
+     Month 2 confidence rate: 26.229030948505994
+     Month 3 confidence rate: 21.919196008835414
+     Month 4 confidence rate: 17.938313179492624
+     Month 5 confidence rate: 2.186271872878635
+     Month 6 confidence rate: 89.71805140427722
+     Month 7 confidence rate: 51.83288227258841
+     Month 8 confidence rate: 13.933546696416443
+     Month 9 confidence rate: 23.14226836066065
+     Month 10 confidence rate: 40.060537183847146
+     Month 11 confidence rate: 25.925623022900183
+     Month 12 confidence rate: 24.136077068550534
+54 ) DISORDERLY CONDUCT With overall average: 7.185714285714286
+With ideal confidence: 44 and acceptable confidence: 27 monthly predictons are:
+     Month 1 confidence rate: 18.935218252283818
+     Month 2 confidence rate: 50.802122707272204
+     Month 3 confidence rate: 39.06396892329066
+     Month 4 confidence rate: 34.58074710838257
+     Month 5 confidence rate: 26.510083274123517
+     Month 6 confidence rate: 9.971969702968295
+     Month 7 confidence rate: 24.279958237780875
+     Month 8 confidence rate: 10.154943201342263
+     Month 9 confidence rate: 60.984553921557236
+     Month 10 confidence rate: 12.486226181609283
+     Month 11 confidence rate: 25.02123701247804
+     Month 12 confidence rate: 1.0998710160951717
+55 ) OFFENSES AGAINST MARRIAGE UNCL With overall average: 1.0
+With ideal confidence: 0 and acceptable confidence: 0 monthly predictons are:
+     Month 1 confidence rate: 0.0
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 0.0
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 0.0
+     Month 6 confidence rate: 0.0
+     Month 7 confidence rate: 0.0
+     Month 8 confidence rate: 0.0
+     Month 9 confidence rate: 0.0
+     Month 10 confidence rate: 0.0
+     Month 11 confidence rate: 0.0
+     Month 12 confidence rate: 0.0
+56 ) DISRUPTION OF A RELIGIOUS SERV With overall average: 1.3095238095238095
+With ideal confidence: 210 and acceptable confidence: 100 monthly predictons are:
+     Month 1 confidence rate: 36.78854931545017
+     Month 2 confidence rate: 11.852197870199426
+     Month 3 confidence rate: 145.87988868728937
+     Month 4 confidence rate: 320.5157619880393
+     Month 5 confidence rate: 36.03679367925957
+     Month 6 confidence rate: 61.51043680037705
+     Month 7 confidence rate: 73.969108907202
+     Month 8 confidence rate: 1.5704566683467966
+     Month 9 confidence rate: 189.2260680931256
+     Month 10 confidence rate: 19.822051225404316
+     Month 11 confidence rate: 243.32889933880972
+     Month 12 confidence rate: 50.3569223360234
+57 ) NYS LAWS-UNCLASSIFIED VIOLATION With overall average: 1.5714285714285714
+With ideal confidence: 46 and acceptable confidence: 28 monthly predictons are:
+     Month 1 confidence rate: 59.44469139734932
+     Month 2 confidence rate: 40.1736268757846
+     Month 3 confidence rate: 5.585718908894119
+     Month 4 confidence rate: 21.031902204904476
+     Month 5 confidence rate: 1.6064101153036834
+     Month 6 confidence rate: 40.08347646139982
+     Month 7 confidence rate: 33.37147419862468
+     Month 8 confidence rate: 63.088614349358494
+     Month 9 confidence rate: 8.012624638188509
+     Month 10 confidence rate: 7.317976153529937
+     Month 11 confidence rate: 33.18041005844787
+     Month 12 confidence rate: 14.372669322676582
+58 ) HOMICIDE-NEGLIGENT-VEHICLE With overall average: 1.5147058823529411
+With ideal confidence: 88 and acceptable confidence: 64 monthly predictons are:
+     Month 1 confidence rate: 14.953415442678946
+     Month 2 confidence rate: 104.85548213834545
+     Month 3 confidence rate: 98.7654752798556
+     Month 4 confidence rate: 42.706466682711834
+     Month 5 confidence rate: 111.37080930841293
+     Month 6 confidence rate: 43.26138251791578
+     Month 7 confidence rate: 1.065903867929265
+     Month 8 confidence rate: 52.06026151803526
+     Month 9 confidence rate: 37.92914299261706
+     Month 10 confidence rate: 95.88178968170624
+     Month 11 confidence rate: 70.21984716878488
+     Month 12 confidence rate: 83.0949659848235
+59 ) OTHER TRAFFIC INFRACTION With overall average: 1.25
+With ideal confidence: 101 and acceptable confidence: 43 monthly predictons are:
+     Month 1 confidence rate: 157.45937804176225
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 0.0
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 39.89398084433045
+     Month 6 confidence rate: 0.0
+     Month 7 confidence rate: 39.3847869939529
+     Month 8 confidence rate: 38.585763236220096
+     Month 9 confidence rate: 0.0
+     Month 10 confidence rate: 0.0
+     Month 11 confidence rate: 78.19110390353895
+     Month 12 confidence rate: 158.35758916443515
+60 ) OTHER STATE LAWS (NON PENAL LAW) With overall average: 1.2222222222222223
+With ideal confidence: 95 and acceptable confidence: 26 monthly predictons are:
+     Month 1 confidence rate: 0.0
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 26.30358727539064
+     Month 4 confidence rate: 26.52028425670264
+     Month 5 confidence rate: 37.78909893643492
+     Month 6 confidence rate: 163.36640887202685
+     Month 7 confidence rate: 0.0
+     Month 8 confidence rate: 23.75277324638862
+     Month 9 confidence rate: 0.0
+     Month 10 confidence rate: 0.0
+     Month 11 confidence rate: 0.0
+     Month 12 confidence rate: 28.285568649909056
+61 ) INTOXICATED/IMPAIRED DRIVING With overall average: 1.3555555555555556
+With ideal confidence: 195 and acceptable confidence: 100 monthly predictons are:
+     Month 1 confidence rate: 90.24734742537359
+     Month 2 confidence rate: 123.71106235934363
+     Month 3 confidence rate: 40.61691573885615
+     Month 4 confidence rate: 180.18060502184153
+     Month 5 confidence rate: 181.02625782866218
+     Month 6 confidence rate: 288.7746691398958
+     Month 7 confidence rate: 15.434717339364248
+     Month 8 confidence rate: 41.90911648137168
+     Month 9 confidence rate: 1.2024220071952172
+     Month 10 confidence rate: 5.278758148884364
+     Month 11 confidence rate: 171.63836712009513
+     Month 12 confidence rate: 53.62279687151354
+62 ) UNLAWFUL POSS. WEAP. ON SCHOOL With overall average: 1.2592592592592593
+With ideal confidence: 176 and acceptable confidence: 114 monthly predictons are:
+     Month 1 confidence rate: 61.97683334798846
+     Month 2 confidence rate: 237.2776862705877
+     Month 3 confidence rate: 217.47927315749612
+     Month 4 confidence rate: 130.26037774172372
+     Month 5 confidence rate: 169.2470506941116
+     Month 6 confidence rate: 71.26039506737244
+     Month 7 confidence rate: 1.0565717577633134
+     Month 8 confidence rate: 7.659773365632372
+     Month 9 confidence rate: 42.76222443303135
+     Month 10 confidence rate: 152.85438127506723
+     Month 11 confidence rate: 87.02796084145048
+     Month 12 confidence rate: 184.89281316703776
+63 ) KIDNAPPING AND RELATED OFFENSES With overall average: 1.0
+With ideal confidence: 53 and acceptable confidence: 14 monthly predictons are:
+     Month 1 confidence rate: 0.0
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 91.69843446291081
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 0.0
+     Month 6 confidence rate: 0.0
+     Month 7 confidence rate: 67.32360725582598
+     Month 8 confidence rate: 0.0
+     Month 9 confidence rate: 0.0
+     Month 10 confidence rate: 0.0
+     Month 11 confidence rate: 0.0
+     Month 12 confidence rate: 0.0
+64 ) LOITERING FOR DRUG PURPOSES With overall average: 1.7692307692307692
+With ideal confidence: 85 and acceptable confidence: 33 monthly predictons are:
+     Month 1 confidence rate: 101.68525764127013
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 35.818656012290056
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 0.0
+     Month 6 confidence rate: 0.0
+     Month 7 confidence rate: 89.81660493746865
+     Month 8 confidence rate: 0.0
+     Month 9 confidence rate: 0.0
+     Month 10 confidence rate: 23.409872913065364
+     Month 11 confidence rate: 0.0
+     Month 12 confidence rate: 136.87983153821102
+65 ) NEW YORK CITY HEALTH CODE With overall average: 1.3134328358208955
+With ideal confidence: 175 and acceptable confidence: 79 monthly predictons are:
+     Month 1 confidence rate: 270.8802748264373
+     Month 2 confidence rate: 96.39825841610218
+     Month 3 confidence rate: 48.44852947517164
+     Month 4 confidence rate: 1.09285809224032
+     Month 5 confidence rate: 13.3593580424643
+     Month 6 confidence rate: 86.3656643724099
+     Month 7 confidence rate: 137.7471288833262
+     Month 8 confidence rate: 75.64497359245293
+     Month 9 confidence rate: 69.04321716852223
+     Month 10 confidence rate: 6.216767589790685
+     Month 11 confidence rate: 114.18299470895741
+     Month 12 confidence rate: 25.8369223339959
+66 ) LOITERING With overall average: 1.0454545454545454
+With ideal confidence: 78 and acceptable confidence: 41 monthly predictons are:
+     Month 1 confidence rate: 84.72372941817022
+     Month 2 confidence rate: 15.195803387811813
+     Month 3 confidence rate: 39.773149834278705
+     Month 4 confidence rate: 115.1039542352302
+     Month 5 confidence rate: 12.9413520675
+     Month 6 confidence rate: 12.878998791940733
+     Month 7 confidence rate: 50.4998996812932
+     Month 8 confidence rate: 85.67356517418366
+     Month 9 confidence rate: 12.99086505232046
+     Month 10 confidence rate: 55.56585699640128
+     Month 11 confidence rate: 0.0
+     Month 12 confidence rate: 0.0
+67 ) ADMINISTRATIVE CODES With overall average: 1.0555555555555556
+With ideal confidence: 130 and acceptable confidence: 58 monthly predictons are:
+     Month 1 confidence rate: 25.172674877529534
+     Month 2 confidence rate: 92.44414298152869
+     Month 3 confidence rate: 26.003830306761618
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 0.0
+     Month 6 confidence rate: 104.6866948470547
+     Month 7 confidence rate: 25.21184956845797
+     Month 8 confidence rate: 24.760718849871875
+     Month 9 confidence rate: 0.0
+     Month 10 confidence rate: 201.30296828488716
+     Month 11 confidence rate: 184.89291621161627
+     Month 12 confidence rate: 0.0
+68 ) LOITERING/DEVIATE SEX With overall average: 1.7777777777777777
+With ideal confidence: 58 and acceptable confidence: 25 monthly predictons are:
+     Month 1 confidence rate: 0.0
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 90.16745046582899
+     Month 4 confidence rate: 6.777949370918421
+     Month 5 confidence rate: 6.2894543520293835
+     Month 6 confidence rate: 14.144165748317082
+     Month 7 confidence rate: 0.0
+     Month 8 confidence rate: 0.0
+     Month 9 confidence rate: 81.91162295306115
+     Month 10 confidence rate: 0.0
+     Month 11 confidence rate: 81.78762219718722
+     Month 12 confidence rate: 7.196898061636317
+69 ) FORTUNE TELLING With overall average: 1.1
+With ideal confidence: 119 and acceptable confidence: 51 monthly predictons are:
+     Month 1 confidence rate: 83.71732863549008
+     Month 2 confidence rate: 51.64228426524233
+     Month 3 confidence rate: 0.0
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 119.5429186681065
+     Month 6 confidence rate: 41.4739588209399
+     Month 7 confidence rate: 38.61168916096309
+     Month 8 confidence rate: 186.63312408257454
+     Month 9 confidence rate: 82.24941839613811
+     Month 10 confidence rate: 0.0
+     Month 11 confidence rate: 0.0
+     Month 12 confidence rate: 0.0
+70 ) UNDER THE INFLUENCE OF DRUGS With overall average: 1.0
+With ideal confidence: 0 and acceptable confidence: 0 monthly predictons are:
+     Month 1 confidence rate: 0.0
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 0.0
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 0.0
+     Month 6 confidence rate: 0.0
+     Month 7 confidence rate: 0.0
+     Month 8 confidence rate: 0.0
+     Month 9 confidence rate: 0.0
+     Month 10 confidence rate: 0.0
+     Month 11 confidence rate: 0.0
+     Month 12 confidence rate: 0.0
+71 ) ABORTION With overall average: 1.0
+With ideal confidence: 99 and acceptable confidence: 40 monthly predictons are:
+     Month 1 confidence rate: 82.2286995515695
+     Month 2 confidence rate: 0.0
+     Month 3 confidence rate: 0.0
+     Month 4 confidence rate: 0.0
+     Month 5 confidence rate: 73.95401975483149
+     Month 6 confidence rate: 85.08956307256207
+     Month 7 confidence rate: 0.0
+     Month 8 confidence rate: 72.55260416004879
+     Month 9 confidence rate: 158.5539522717699
+     Month 10 confidence rate: 0.0
+     Month 11 confidence rate: 0.0
+     Month 12 confidence rate: 0.0
