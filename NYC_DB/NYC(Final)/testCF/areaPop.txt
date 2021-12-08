@@ -1,0 +1,10 @@
+Borough          Population   Area(SqKm)
+Bronx		     1,472,654     109.3
+Brooklyn         2,736,074     179.7
+Manhattan 	     1,694,251      58.8
+Queens		     2,405,464     281.5
+Staten Island 	   495,747     148.9
+
+Information from https://en.wikipedia.org/wiki/Demographics_of_New_York_City
+
+	
