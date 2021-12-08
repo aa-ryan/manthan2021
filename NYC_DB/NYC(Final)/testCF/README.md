@@ -1,0 +1,1 @@
+![Formula for optimized Confidence Rate!](./formula.png)

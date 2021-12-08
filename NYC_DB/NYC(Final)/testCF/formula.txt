@@ -1,0 +1,10 @@
+Optimized confidence rate =  K . 1/(√P) . 1/A . CF
+
+Where,
+
+P  = Population of borough
+A  = Area of borough (in square km)
+K  = large constant to offset decimal values in result here we used, 10^6 
+CF = unoptimized confidence rate calculated by comparing percentage share 
+     of a crime for a month with the rest of the months for that year and 
+     averaging these across the training years
