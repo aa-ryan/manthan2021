@@ -1,0 +1,1 @@
+![Formula for comparing diff crimes in same borough](./standardizedCF.png)
