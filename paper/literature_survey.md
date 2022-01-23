@@ -1,5 +1,6 @@
 # LITERATURE SURVEY
 
+### Crime pattern and evidence based methods
 * Kaumalee Bogahawatte and Shalinda Adikari, “Intelligent
 Criminal Identification System”, Proceedings of 8th IEEE
 International Conference on Computer Science and
@@ -59,6 +60,19 @@ Networks and Soft Computing, pp. 406-412, 2014.</br></br>
 		classification of crime dataset
 
 
+* Jyoti Agarwal, Renuka Nagpal and Rajni Sehgal, “Crime
+	Analysis using K-Means Clustering”, International Journal
+	of Computer Applications, Vol. 83, No. 4, pp. 1-4, 2013.
+	* Agarwal et al. [3] used the rapid miner tool for analyzing the
+	crime rates and anticipation of crime rate using different 
+	data mining techniques.	Their work done is for crime analysis using
+	the K-Means Clustering algorithm. The main objective of their
+	crime analysis work is to extract the crime patterns, predict the
+	crime based on the spatial distribution of existing data and
+	detection of crime.
+
+### Geo-location and spatial based methods
+
 * Rizwan Iqbal, Masrah Azrifah Azmi Murad, Aida
 	Mustapha, Payam Hassany Shariat Panahy and Nasim
 	Khanahmadliravi, “An Experimental Study of Classification
@@ -77,13 +91,21 @@ Networks and Soft Computing, pp. 406-412, 2014.</br></br>
 		Bayesian algorithm and achieved 83.9519% Accuracy in
 		predicting Crime Category for different states of USA.
 
-* Jyoti Agarwal, Renuka Nagpal and Rajni Sehgal, “Crime
-	Analysis using K-Means Clustering”, International Journal
-	of Computer Applications, Vol. 83, No. 4, pp. 1-4, 2013.
-	* Agarwal et al. [3] used the rapid miner tool for analyzing the
-	crime rates and anticipation of crime rate using different 
-	data mining techniques.	Their work done is for crime analysis using
-	the K-Means Clustering algorithm. The main objective of their
-	crime analysis work is to extract the crime patterns, predict the
-	crime based on the spatial distribution of existing data and
-	detection of crime.
+
+* Yu-Yueh Huang, Cheng-Te Li and Shyh-Kang Jeng,
+“Mining Location-based Social Networks for Criminal
+Activity Prediction”, Proceedings of 24th IEEE International
+Conference on Wireless and Optical Communication, pp.
+185-190, 2015.
+	* Focused on a different approach for criminal
+	activity prediction based on mining location based Social
+	Network interactions. By using these interactions, they can collect
+	information using the geographical interactions and data
+	collections from the people. They devised a working procedure in
+	which a series of features are categorized from the Foursquare and
+	Gowalla used in the San Francisco Bay area. The crime patterns
+	and the crime occurrences are tracked with the geographical
+	features which are extracted from the map and they are analyzed
+	to detect the urban areas with high crime activities. Their work
+	aims at exploiting the location-based social network data to
+	investigate the criminal activities in urban areas. By using the
