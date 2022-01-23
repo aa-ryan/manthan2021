@@ -58,3 +58,32 @@ Networks and Soft Computing, pp. 406-412, 2014.</br></br>
 		clusters are clustered by the k-means clustering algorithm for
 		classification of crime dataset
 
+
+* Rizwan Iqbal, Masrah Azrifah Azmi Murad, Aida
+	Mustapha, Payam Hassany Shariat Panahy and Nasim
+	Khanahmadliravi, “An Experimental Study of Classification
+	Algorithms for Crime Prediction”, Indian Journal of Science
+	and Technology, Vol. 6, No. 3, pp. 4219-4225, 2013.
+		* Rizwan et al. [22] have performed classification of crime
+		dataset to predict Crime Category for different states of the United
+		States of America. The crime dataset that they used in this research
+		is real in nature. That is, it was collected from socio-economic data
+		from 1990 US Census, law enforcement data from the 1990 US
+		LEMAS survey, and crime data from the 1995 FBI UCR. Their
+		work compared the two different classification algorithms namely,
+		Naïve Bayesian and Decision Tree for predicting Crime Category
+		for different states in USA. The results from their experiment
+		showed that, Decision Tree algorithm out performed Naïve
+		Bayesian algorithm and achieved 83.9519% Accuracy in
+		predicting Crime Category for different states of USA.
+
+* Jyoti Agarwal, Renuka Nagpal and Rajni Sehgal, “Crime
+	Analysis using K-Means Clustering”, International Journal
+	of Computer Applications, Vol. 83, No. 4, pp. 1-4, 2013.
+	* Agarwal et al. [3] used the rapid miner tool for analyzing the
+	crime rates and anticipation of crime rate using different 
+	data mining techniques.	Their work done is for crime analysis using
+	the K-Means Clustering algorithm. The main objective of their
+	crime analysis work is to extract the crime patterns, predict the
+	crime based on the spatial distribution of existing data and
+	detection of crime.
